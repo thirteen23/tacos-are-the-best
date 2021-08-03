@@ -1,0 +1,9 @@
+{
+    "name": "tacos-are-the-best",
+    "scripts": {
+        "local-tacos": "serverless invoke local --function tacos --data '{ \"queryStringParameters\": {\"type\": \"breakfast\", \"filling1\": \"egg\", \"filling2\": \"bacon\", \"filling3\": \"cheese\", \"tortilla\": \"flour\", \"salsa\": \"Salsa Doña\"}}' -e LOCAL_DEV=true > output.json"
+    },
+    "dependencies": {
+        "aws-sdk": "^2.960.0"
+    }
+}

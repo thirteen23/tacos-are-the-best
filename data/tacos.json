@@ -1,0 +1,37 @@
+{
+    "item": "tacos",
+    "collection": [
+        {
+            "type": "breakfast",
+            "tortilla": "flour",
+            "filling1": "egg",
+            "filling2": "bacon",
+            "filling3": "cheese",
+            "salsa": "Salsa Doña"
+        },
+        {
+            "type": "breakfast",
+            "tortilla": "flour",
+            "filling1": "egg",
+            "filling2": "potato",
+            "filling3": "cheese",
+            "salsa": "Salsa Doña"
+        },
+        {
+            "type": "breakfast",
+            "tortilla": "flour",
+            "filling1": "bean",
+            "filling2": "bacon",
+            "filling3": "cheese",
+            "salsa": "Salsa Doña"
+        },
+        {
+            "type": "breakfast",
+            "tortilla": "corn",
+            "filling1": "egg",
+            "filling2": "bacon",
+            "filling3": "cheese",
+            "salsa": "Salsa Doña"
+        }
+    ]
+}
