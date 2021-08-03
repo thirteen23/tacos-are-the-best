@@ -1,4 +1,0 @@
-{
-    "statusCode": 200,
-    "body": "{\n  \"message\": \"You have matched 1 tacos!\",\n  \"input\": {\n    \"queryStringParameters\": {\n      \"type\": \"breakfast\",\n      \"filling1\": \"egg\",\n      \"filling2\": \"bacon\",\n      \"filling3\": \"cheese\",\n      \"tortilla\": \"flour\",\n      \"salsa\": \"Salsa Doña\"\n    }\n  }\n}"
-}
